@@ -1,0 +1,31 @@
+/* Hapa tunafanya search bar iwe nzuri zaidi */
+#searchBar {
+    width: 100%;
+    padding: 12px;
+    margin-top: 12px;
+    margin-bottom: 12px;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+}
+
+/* Muonekano wa Jedwali */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+th, td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+th {
+    background-color: #f2f2f2;
+}
+
+tr:hover {
+    background-color: #f5f5f5;
+}
